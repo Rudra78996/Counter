@@ -20,7 +20,7 @@ body {
 }
 
 .card {
-  background: rgba(33, 33, 51, 0.6); 
+  background: rgb(9 9 22 / 60%);
   /* padding: 40px; */
   border-radius: 10px;
   box-shadow: 9px 7px 10px rgba(0, 0, 0, 0.2);
@@ -71,7 +71,7 @@ body {
 .value {
   font-size: 2em;
   font-weight: bold;
-  color: #1976d2;
+  color: #ffffff;
   margin-top: 20px;
 }
 
@@ -106,7 +106,7 @@ body {
   color: #ffffff;
   animation: moveUp 1s forwards;
 }
-.minus-one{
+.minus-one {
   color: #dc004e;
 }
 
