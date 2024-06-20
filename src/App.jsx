@@ -43,7 +43,7 @@ export default function App() {
   }, [percentage]);
 
   return (
-    <div className="container">
+    <div className="container prevent-select">
       <div className="card" style={{ animation: 'fadeIn 0.5s ease-in' }}>
         <div className="circular-progress">
           <svg width="150" height="150">

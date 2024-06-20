@@ -169,3 +169,8 @@ button.default:hover {
     opacity: 1;
   }
 }
+.prevent-select {
+  -webkit-user-select: none; 
+  -ms-user-select: none; 
+  user-select: none; 
+}
