@@ -1,0 +1,20 @@
+Your task is to build a web application using a technology of your choice. The
+app should have the following features:
+
+1. It should have two buttons. Clicking on first button should subtract 1, and
+   second button should add 1 to the given number (the application state
+   variable).
+2. The number you use for mathematical operations, should not exceed 150 at any
+   case. The lowest possible value can be 0. (num >= 0 && num <= 150).
+3. Create a Progress Bar based on the number such that if I add or subtract
+   from the number, it should reflect on the progress bar (progress bar should
+   update accordingly).
+4. Add transition/animation to the progress bar.
+5. Implement Undo/Redo for the mathematical operations.
+
+Please upload your code to GitHub (or any other source code hosting platform).
+You will also have to deploy the codebase (some suggestions: Vercel, Netlify,
+GitHub Pages etc).
+
+Once you are done, Please share URLs of the codebase and deployed website.
+Submission deadline: 23 June, 2024
